@@ -1,1 +1,8 @@
 
+months,project,city,units_available,units_sold,price_per_sqft,marketing_spend,leads,boking
+jan,green heights,ahmedabad,100,10,5500,500000,200,8
+feb,green heights,ahmedabad,90,12,5600,450000,180,9
+mar,green heights,ahmedabad,78,15,5700,550000,250,12
+jan,sky tower,surat,60,5,8000,300000,100,4
+feb,sky tower,surat,55,7,8100,320000,110,5
+mar,sky tower,surat,48,8,8200,350000,130,6
